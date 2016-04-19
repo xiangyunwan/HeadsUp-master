@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\HeadsUp-master\app\build\intermediates\exploded-aar\HeadsUp-master\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f69506706a078f061e610544973257f287e3cbbe">
+        <dex dex="D:\android_github\HeadsUp-master\app\build\intermediates\pre-dexed\debug\classes-b5d3767a8774098b0004663e4c193738c6d41614.jar" />
+    </item>
+    <item
+        jar="D:\android_github\HeadsUp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\android_github\HeadsUp-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d6ad8f23bd244b904ac0bc63b75518feaf06bb97.jar" />
+    </item>
+    <item
+        jar="D:\android_github\HeadsUp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\android_github\HeadsUp-master\app\build\intermediates\pre-dexed\debug\classes-d9140d174ac65ad0b156141837ebb67dead89752.jar" />
+    </item>
+    <item
+        jar="D:\android_github\HeadsUp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\android_github\HeadsUp-master\app\build\intermediates\pre-dexed\debug\classes-1fcc9bd44a962f7e0bcc7d81d0783f40b7680136.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\android_github\HeadsUp-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-458bdc61b14f9a8c6f445996d1cae5539e85335d.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android_github\HeadsUp-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-6a3127adc4fdadc7a504676be01b82bbd9d2238e.jar" />
+    </item>
+
+</items>
